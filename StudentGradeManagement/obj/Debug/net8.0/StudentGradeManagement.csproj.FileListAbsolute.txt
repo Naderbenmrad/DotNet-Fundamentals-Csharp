@@ -1,0 +1,14 @@
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\bin\Debug\net8.0\StudentGradeManagement.exe
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\bin\Debug\net8.0\StudentGradeManagement.deps.json
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\bin\Debug\net8.0\StudentGradeManagement.runtimeconfig.json
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\bin\Debug\net8.0\StudentGradeManagement.dll
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\bin\Debug\net8.0\StudentGradeManagement.pdb
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\obj\Debug\net8.0\StudentGradeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\obj\Debug\net8.0\StudentGradeManagement.AssemblyInfoInputs.cache
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\obj\Debug\net8.0\StudentGradeManagement.AssemblyInfo.cs
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\obj\Debug\net8.0\StudentGradeManagement.csproj.CoreCompileInputs.cache
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\obj\Debug\net8.0\StudentGradeManagement.dll
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\obj\Debug\net8.0\refint\StudentGradeManagement.dll
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\obj\Debug\net8.0\StudentGradeManagement.pdb
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\obj\Debug\net8.0\StudentGradeManagement.genruntimeconfig.cache
+C:\Users\nader\DotNet-Fundamentals-Csharp\StudentGradeManagement\obj\Debug\net8.0\ref\StudentGradeManagement.dll
